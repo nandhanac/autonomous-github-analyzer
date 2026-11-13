@@ -1,0 +1,26 @@
+text,category
+django python models views urls templates forms authentication database,Web Development
+flask python routes api requests json sqlalchemy,Backend
+django models views templates forms python sqlite,Web Development
+python django html css javascript web application,Web Development
+django rest framework api serializers views python,Backend
+pandas numpy dataframe matplotlib python data analysis,Data Science
+pandas numpy scipy dataframe statistics visualization python,Data Science
+python pandas csv excel data cleaning analysis,Data Science
+numpy pandas matplotlib seaborn exploratory data analysis,Data Science
+python pandas statistics data visualization dataframe,Data Science
+tensorflow keras neural network deep learning python,Machine Learning
+pytorch neural network training tensor python,Machine Learning
+tensorflow cnn image classification computer vision,Machine Learning
+sklearn regression classification machine learning python,Machine Learning
+pytorch transformers deep learning neural networks,Machine Learning
+react jsx components hooks javascript frontend,Frontend
+react javascript components redux frontend web,Frontend
+html css javascript responsive frontend website,Frontend
+vue javascript components frontend web application,Frontend
+angular typescript components services frontend,Frontend
+java spring boot controller service repository,Backend
+spring boot java rest api mysql backend,Backend
+node express javascript api server backend,Backend
+fastapi python api endpoints pydantic backend,Backend
+java servlet jdbc mysql backend application,Backend
